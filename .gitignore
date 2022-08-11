@@ -1,2 +1,3 @@
 strava_tokens.json
 strava_activities.csv
+get_auth_tokens.py
